@@ -1,26 +1,28 @@
-# 🏛️ Shiro Nexus
-> **Master Documentation & System Index**
+# ♔♕ Shiro Nexus
+> **The Command Center for Aryan Singh Chandel's Engineering Ecosystem**
 
-Welcome to the central hub for all my projects. This repository is a dynamic index of my work across Game Modding, AI, and Web Security.
+![Shiro's Stats](https://github-readme-stats.vercel.app/api?username=shiroonigami23-ui&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiroonigami23-ui&layout=compact&theme=tokyonight)
 
-## 🛡️ Security Posture
-All projects listed here have been audited for security.
-- **Status:** [Verified Elite]
-- **Last Audit:** 2026-01-11
+## ⚒️ Technology Stack & Mastery
+This dashboard tracks my journey across multiple domains:
 
-## 📂 Project Directory
+| Domain | Key Technologies | Status |
+| :--- | :--- | :--- |
+| **Artificial Intelligence** | Python, PyTorch, Deep Learning | ☢️ Advanced |
+| **Web Development** | JS, Firebase, HTML/CSS | 🌐 Full-Stack |
+| **Game Modding** | Ren'Py, Python, Logic Scripting | 🎮 Creative |
+| **Cybersecurity** | Secret Management, CI/CD, Auditing | ⛑️ Professional |
 
-### 🤖 Artificial Intelligence
-- [MyTorch-MNIST-Elite](https://github.com/shiroonigami23-ui/MyTorch-MNIST-Elite) - Deep Learning from scratch.
-- [Generator](https://github.com/shiroonigami23-ui/Generator) - AI-driven content engine.
-
-### 🌐 Web & Security
-- [Attendance-System](https://github.com/shiroonigami23-ui/Attendance-System) - Secured Firebase Architecture.
-- [Bank-Security](https://github.com/shiroonigami23-ui/Bank-Security) - Defensive programming patterns.
-
-### 🎮 Game Development
-- [Renpy](https://github.com/shiroonigami23-ui/Renpy) - Visual Novel logic.
-- [Pixel-Game](https://github.com/shiroonigami23-ui/Pixel-Game) - Interactive asset management.
+## 🚀 Live Monitoring
+| Project | Type | Documentation | CI/CD Status |
+| :--- | :--- | :--- | :--- |
+| **MyTorch-MNIST** | AI Engine | [Technical Deep-Dive] | ![Status](https://github.com/shiroonigami23-ui/MyTorch-MNIST-Elite/actions/workflows/main.yml/badge.svg) |
+| **Computer-Architecture** | Web App | [System Architecture] | ![Status](https://github.com/shiroonigami23-ui/Computer-Architecture/actions/workflows/main.yml/badge.svg) |
+| **Attendance-System** | Firebase | [API Security] | ![Status](https://github.com/shiroonigami23-ui/Attendance-System/actions/workflows/main.yml/badge.svg) |
 
 ---
-*This hub is automatically maintained. Last Sync: 2026.*
+### 🏆 Milestone Tracking
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shiroonigami23-ui&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+*This Nexus is the single source of truth for all projects.*

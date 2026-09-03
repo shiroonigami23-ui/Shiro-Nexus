@@ -21,7 +21,6 @@
 
 ## Connect
 <p>
-  <a href="https://x.com/HabhanSing47523"><img src="https://img.shields.io/badge/X-@HabhanSing47523-black?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
   <a href="https://leetcode.com/u/Shirooni23k/"><img src="https://img.shields.io/badge/LeetCode-Shirooni23k-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" /></a>
   <a href="https://huggingface.co/ShiroOnigami23"><img src="https://img.shields.io/badge/HuggingFace-ShiroOnigami23-yellow?style=for-the-badge&logo=huggingface&logoColor=yellow" alt="huggingface" /></a>
   <a href="https://discord.gg/nCgEqyBX"><img src="https://img.shields.io/badge/discord-shirooni2307-20BEFF?style=for-the-badge&logo=discord&logoColor=blue" alt="discord" /></a>
